@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mari75a&label=Profile%20views&color=0e75b6&style=flat" alt="mari75a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mari75a" alt="mari75a" /></a> </p>
-
 - 🔭 I’m currently working on **C# .Net**
 
 - 🌱 I’m currently learning **.NET**
@@ -33,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mari75a&show_icons=true&locale=en&layout=compact" alt="mari75a" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mari75a&show_icons=true&locale=en" alt="mari75a" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mari75a&" alt="mari75a" /></p>
